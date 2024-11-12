@@ -1,8 +1,3 @@
-
-![PrioritySetter](https://github.com/user-attachments/assets/b4eadb4d-5622-4236-b8ca-d2ae066d6c72)
-
-
-
 # PrioritySetter
 PrioritySetter is a lightweight GUI tool that lets you set custom CPU, IO, and Page priorities for specific processes. 
 By modifying registry entries, PrioritySetter ensures that when these processes launch, they run with the specified priorities set by the user.
@@ -16,6 +11,9 @@ Set IO Priority: Control a process's disk access speed.
 Set Page Priority: Adjust the memory page importance for a process.
 User-Friendly Interface: Easily select and prioritize processes.
 Automated Registry Update: Applies settings automatically in the registry, so they’re ready at process startup.
+
+
+![PrioritySetter](https://github.com/user-attachments/assets/b4eadb4d-5622-4236-b8ca-d2ae066d6c72)
 
 
 

@@ -53,7 +53,7 @@ python prioritysetter.py
 1. Launch PrioritySetter.
 2. Choose CPU, IO, and Memory priority levels.
 3. Click Set EXE Priority to save changes to the registry.
-4. When these processes start, they’ll automatically run with the selected priorities.
+4. When the process starts, it will automatically run with the selected priorities.
 
 
 ### Priority Levels

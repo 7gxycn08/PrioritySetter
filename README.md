@@ -58,3 +58,8 @@ python prioritysetter.py
 1. CPU Priority: Real-time, High, Normal, Idle.
 2. IO Priority: Critical, High, Normal, Low, Very Low.
 3. Page Priority: Normal, Below Normal, Medium, Low, Very Low.
+
+
+### License
+
+PrioritySetter is released under the MIT License. See the [LICENSE](https://github.com/7gxycn08/PrioritySetter/blob/main/LICENSE) file for more details.

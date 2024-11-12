@@ -52,6 +52,7 @@ python prioritysetter.py
 2. Choose CPU, IO, and Memory priority levels.
 3. Click Set EXE Priority to save changes to the registry.
 4. When the process starts, it will automatically run with the selected priorities.
+5. To uninstall priority settings click the remove button and select the exe.
 
 
 ### Priority Levels

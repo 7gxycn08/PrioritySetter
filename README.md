@@ -10,7 +10,7 @@ By modifying registry entries, PrioritySetter ensures that when these processes 
 2. Set IO Priority: Control a process's disk access speed.
 3. Set Page Priority: Adjust the memory page importance for a process.
 4. User-Friendly Interface: Easily select and prioritize processes.
-5. Automated Registry Update: Applies settings automatically in the registry, so they’re ready at process startup.
+5. Automated Registry Update: Applies settings automatically in the registry, so they’re applied at process startup.
 
 
 ![PrioritySetter](https://github.com/user-attachments/assets/b4eadb4d-5622-4236-b8ca-d2ae066d6c72)

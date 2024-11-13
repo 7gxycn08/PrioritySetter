@@ -30,7 +30,7 @@ Libraries: Customtkinter (for GUI), winreg (for registry management)
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/PrioritySetter.git
+git clone https://github.com/7gxycn08/PrioritySetter.git
 cd PrioritySetter
 ```
 Install required packages:
